@@ -237,7 +237,7 @@ end
 1. Config pour utiliser les cookies dans `config/application.rb`
 
 ```ruby
-module DeviseVue
+module BlogAPI2
   class Application < Rails::Application
     # Du code cool
 
